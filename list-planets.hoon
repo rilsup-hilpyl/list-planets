@@ -5,5 +5,5 @@
 ^-  (list @p)
 ?:  =(end count)
   ~
-:-  (add base (mul 0x1.0000 count)
+:-  (add base (mul 0x1.0000 count))
 $(count (add 1 count))
